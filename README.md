@@ -46,12 +46,17 @@
 <details>
  <summary><h3>👨‍💻 Ibrahim's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion for coding and building products that matter. I build cross-platform apps using Flutter for smooth user experiences and dive into Rust for systems programming and backend development with Actix-Web. I explore SurrealDB to craft scalable databases and love tinkering with Linux to improve my workflows. My goal is to keep learning and build products that become real assets, reflecting my dedication to clean, performant, and meaningful engineering.
+   
+<br/>
+
+[🐦 Twitter][twitter] • [💼 LinkedIn][linkedin] • [🌌 Bluesky][bluesky] • [🐘 Mastodon][mastodon]
+
+</details>
 
 [twitter]: https://x.com/ibrahim_3595
 [linkedin]: https://www.linkedin.com/in/ibrahim-haji-647836347/
 [bluesky]: https://bsky.app/profile/ibrahim0708.bsky.social
 [mastodon]: https://mastodon.social/@ibrahim3595
-</details>
 
 <!--
 **ibrahimhaji0708/ibrahimhaji0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
